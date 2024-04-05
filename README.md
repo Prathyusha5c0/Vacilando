@@ -22,7 +22,11 @@ Join our vibrant chat groups and connect with fellow explorers from around the g
     <strong>Blogs:</strong> 
     Share your travel stories, upload photos, and connect with like-minded individuals.
   </li>
+
 </ul>
+
+# Sequence diagram
+![Picture3](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/6030f0e0-994e-497a-93dc-3fcb69096610)
 
 # Home Page
 ![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/d271a789-6a89-414e-ab7f-a581a4f8074f)
@@ -30,6 +34,12 @@ Join our vibrant chat groups and connect with fellow explorers from around the g
 ![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/ec0b46ed-2ea4-4ca2-80d3-5a924b50716b)
 # Destinations
 ![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/0810a782-517a-45d4-91cb-6da9e9d105c8)
+# Places
+![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/4cd2d21a-ea1e-4ada-b3c6-b63713a843c5)
+
+# Blog
+![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/59edae24-c536-4d0f-839a-79f9678016ae)
+
 
 
 
