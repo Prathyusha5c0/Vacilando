@@ -1,5 +1,4 @@
-<h1>Vacilando - A Travelling Guide<br>
-(Don't just dream about it – start exploring)</h1>
+# Vacilando : Don't just dream about it – start exploring
 <p>Welcome to Vacilando, the ultimate platform for passionate travelers like you. Say goodbye to mundane trips and hello to unforgettable experiences as we redefine the way you explore the world.
 Explore a world of possibilities with our intuitive interface that lets you effortlessly search for your dream destinations. From exotic beaches to bustling cities, we've got you covered.</p>
 <p>
@@ -25,8 +24,15 @@ Join our vibrant chat groups and connect with fellow explorers from around the g
   </li>
 </ul>
 
-<h2>Home Page</h2>
-![Picture1](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/4fd6c9fa-f1ea-4996-aba7-f45029066033)
+# Home Page
+![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/d271a789-6a89-414e-ab7f-a581a4f8074f)
+# Chat Page
+![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/ec0b46ed-2ea4-4ca2-80d3-5a924b50716b)
+# Destinations
+![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/0810a782-517a-45d4-91cb-6da9e9d105c8)
+
+
+
 
 
 
