@@ -26,7 +26,7 @@ Join our vibrant chat groups and connect with fellow explorers from around the g
 </ul>
 
 <h2>Home Page</h2>
-![image](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/307c7507-80ec-459f-8c6d-50dba674e4ba)
+![Picture1](https://github.com/Prathyusha5c0/Vacilando/assets/123793548/4fd6c9fa-f1ea-4996-aba7-f45029066033)
 
 
 
